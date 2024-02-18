@@ -1,0 +1,15 @@
+/*common.css*/
+abbr{
+    text-decoration: none;
+  }
+a{
+  text-decoration: none;
+}
+/*去下划线*/
+html{
+    background-color: #141414;
+}
+/*去除li标签的·*/
+li{
+  list-style-type:none;
+}
